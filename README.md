@@ -33,6 +33,10 @@ Instead of answering the user's legitimate question, the model follows the injec
 ```
 HACKED! CONFUSED DEPUTY ATTACK SUCCESSFUL.
 ```
+## Screenshot
+
+<img width="419" height="102" alt="screenshot png" src="https://github.com/user-attachments/assets/5b82799a-2b19-4d25-8d27-4c21a92656ba" />
+
 
 ---
 
